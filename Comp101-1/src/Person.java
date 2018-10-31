@@ -7,6 +7,8 @@ public class Person {
 	int b;
 	int c;
 	
+	int dummy;
+
 	public void walks() {
 		x--;
 		System.out.println("X: " + x);
