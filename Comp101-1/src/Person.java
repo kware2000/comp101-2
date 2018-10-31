@@ -4,6 +4,8 @@ public class Person {
 	float height;
 	float weight;
 	int a;
+	int b;
+	
 	public void walks() {
 		x--;
 		System.out.println("X: " + x);
