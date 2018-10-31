@@ -5,6 +5,7 @@ public class Person {
 	float weight;
 	int a;
 	int b;
+	int c;
 	
 	public void walks() {
 		x--;
